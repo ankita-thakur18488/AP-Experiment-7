@@ -20,6 +20,11 @@ Fibonacci of 6 is:
 
 Here we divide the problem into several subproblems and conquer the result of the subproblems and finally get the optimal solution. But there is a problem that is here we are calculating a subproblem more than once. Here we calculate fib(4) twice, fib(3) three-time, fib(2) five times, fib(1) three times. Instead of calculating more than once we will store the solution of the subproblem and will use it for the next time.
 
+## DP vs. Greedy:
+- DP finds all possible solutions and picks the optimal one.
+- Greedy makes local optimal choices but doesn’t always guarantee the global optimum.
+- DP is time-consuming compared to greedy algorithms but guarantees the optimal solution if it exists.
+
 # 🔢 Dynamic Programming Problems
 
 ## Dynamic Programming (Basic Problems)
