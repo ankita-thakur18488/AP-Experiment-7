@@ -1,7 +1,7 @@
 # AP-Experiment-7
 
 ## Dynamic Programming
-Dynamic Programming (DP) is an optimization technique used to solve complex problems by breaking them into smaller overlapping subproblems, solving each subproblem only once, and storing the results to avoid redundant calculations. It is mainly applied to optimization problems where we need to find the minimum, maximum, shortest, or longest solution.
+Dynamic Programming (DP) is an optimization technique used to solve complex problems by breaking them into smaller overlapping subproblems, solving each subproblem only once, and storing the results to avoid redundant calculations. It is mainly applied to optimization problems where we need to find the minimum, maximum, shortest, or longest solution. https://www.enjoyalgorithms.com/blog/introduction-to-dynamic-programming
 
 ### Key Steps in DP Approach:
 - Break the problem into smaller subproblems (like divide-and-conquer).
